@@ -76,7 +76,6 @@ II- Les Différents Parties D'exécution
 
 
 
-14/ L’apparition de la nouvelle opération créditer dans la liste des opérations dont il a subit le compte actuel .
 
 
 
